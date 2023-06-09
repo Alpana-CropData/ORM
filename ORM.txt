@@ -1,0 +1,6 @@
+How to save data in table using Django:
+
+.create()
+save()
+get_or_create()
+bulk_create()
